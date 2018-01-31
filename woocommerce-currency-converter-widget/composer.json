@@ -1,0 +1,11 @@
+
+{
+    "name": "IOLabs/woocommerce-currency-converter-widget",
+    "description": "Plugin mirror for: woocommerce-currency-converter-widget",
+    "license": "GPL",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.3.2",
+        "composer/installers": "v1.0.6"
+    }
+}
