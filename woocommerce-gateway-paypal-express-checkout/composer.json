@@ -1,0 +1,11 @@
+
+{
+    "name": "IOLabs/woocommerce-gateway-paypal-express-checkout",
+    "description": "Plugin mirror for: woocommerce-gateway-paypal-express-checkout",
+    "license": "GPL",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.3.2",
+        "composer/installers": "v1.0.6"
+    }
+}
